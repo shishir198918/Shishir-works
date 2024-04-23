@@ -1,0 +1,2 @@
+In this file, I developed a linear regression model on Advertising.csv file 
+using Numpy, Pandas, and Matplotlib only

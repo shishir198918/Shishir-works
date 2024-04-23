@@ -1,0 +1,5 @@
+In this file, i clean the data of the CSV file named winequality
+
+and split into train and test data sets so the model does not over or underfit.
+
+Using librares Pandas, Numpy , Seaborn, and Maplotlib 

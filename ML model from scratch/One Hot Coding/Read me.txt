@@ -1,0 +1,2 @@
+In this file,I implemented One Hot Coding logic use in the Classification Model for numeric data using 
+using Numpy only.

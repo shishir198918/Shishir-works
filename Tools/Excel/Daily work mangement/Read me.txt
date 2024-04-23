@@ -1,0 +1,15 @@
+In the Excel sheet, the Daily Maintenance workflow has been done of data updated from SAP PM
+
+The file has the following sheets:-
+
+1-Reference Sheet ->Contains all rules and location details, Area owner, their SAP Code,e.t.c 
+2-IW28-Master data -> Contain daily breakdown corrective maintenance jobs raise in the notification
+3-Corrective Maintence ->Conatian all corrective maintenance order status and file action 
+4-Attendance ->Monthly Attendance of all area owners (fitter, Electrician, and Instrument Officers) and track record        of area owner in a daily meeting 
+
+5-Work-Assignment -> List of preventive maintenance jobs automatically updated as  per area owner according to their attendance and priority 
+
+6-Capacity Scheduling -> Shows weekly effective planning done by planner 
+ 
+
+

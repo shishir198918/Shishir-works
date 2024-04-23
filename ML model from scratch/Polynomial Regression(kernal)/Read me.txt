@@ -1,0 +1,2 @@
+Kernal Function implemented on generated data set and further applied it the linear regression model
+using Numpy only  

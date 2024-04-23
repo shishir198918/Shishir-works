@@ -1,0 +1,11 @@
+In this file Exploratory data analysis was done on 3 CSV files 
+
+1-googleplaystore
+2-Football1
+3-Adult
+
+the following steps are done using Padas, Seaborn, and Matplotlib 
+1-Handle the missing data values
+2-Statical analyse
+3-Removing Outlier
+4-Plotting graph 

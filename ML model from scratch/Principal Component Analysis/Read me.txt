@@ -1,0 +1,1 @@
+In this file i done Principal Component analysis on the generated data set using Numpy only 
